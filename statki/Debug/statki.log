@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  statki.cpp
+  statek.cpp
+d:\studia\semestr 3\cpp\projekt\statki\statek.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Sprites.cpp
+  silnik.cpp
+d:\studia\semestr 3\cpp\projekt\statki\silnik.cpp(44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\studia\semestr 3\cpp\projekt\statki\silnik.cpp(47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\studia\semestr 3\cpp\projekt\statki\silnik.cpp(48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\studia\semestr 3\cpp\projekt\statki\silnik.cpp(131): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\studia\semestr 3\cpp\projekt\statki\silnik.cpp(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\studia\semestr 3\cpp\projekt\statki\silnik.cpp(135): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\studia\semestr 3\cpp\projekt\statki\silnik.cpp(232): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\studia\semestr 3\cpp\projekt\statki\silnik.cpp(263): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  przycisk.cpp
+d:\studia\semestr 3\cpp\projekt\statki\przycisk.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pole.cpp
+d:\studia\semestr 3\cpp\projekt\statki\pole.cpp(118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  plansza.cpp
+d:\studia\semestr 3\cpp\projekt\statki\plansza.cpp(67): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\semestr 3\cpp\projekt\statki\plansza.cpp(331): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  komputer.cpp
+d:\studia\semestr 3\cpp\projekt\statki\komputer.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\studia\semestr 3\cpp\projekt\statki\komputer.cpp(75): warning C4101: 'kierunek': unreferenced local variable
+  gracz.cpp
+  Generating Code...
+d:\studia\semestr 3\cpp\projekt\statki\plansza.cpp(289): warning C4715: 'plansza::strzal': not all control paths return a value
+  statki.vcxproj -> D:\studia\semestr 3\CPP\projekt\statki\Debug\statki.exe
+  statki.vcxproj -> D:\studia\semestr 3\CPP\projekt\statki\Debug\statki.pdb (Full PDB)
